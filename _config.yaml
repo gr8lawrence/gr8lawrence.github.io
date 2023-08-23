@@ -1,15 +1,15 @@
 # site properties and page defaults
-title: gr8lawrence
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Tianyi's Website
+subtitle:
+description: Welcome to my personal website!
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@gr8lawrence.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: tianyi96@live.unc.edu
+  orcid: 0000-0002-2484-2478
+  google-scholar: rgq62U4AAAAJ
   github: gr8lawrence
   twitter: gr8lawrence
   youtube: gr8lawrence
