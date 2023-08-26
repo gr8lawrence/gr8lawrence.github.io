@@ -1,9 +1,19 @@
 ---
 ---
 
-# gr8lawrence's Website
+# Nice to Meet You!
 
-An engaging 1-3 sentence description of your lab.
+<!--<img align="left" width="300" height="400" src="images/Tianyi_portrait.HEIC">-->
+
+My name is Tianyi Liu. I am currently a fifth year Ph.D. student in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at The University of North Carolina Gillings School of Global Public Health. I grew up in Beijing, China and began my study in the United States at UNC, where I obtained both an M.S. and a B.S.P.H in Biostatistics, as well as a B.A. in Mathematics. I considered studying History and Pure Mathematics, but ultimately chose to pursue Biostatistics as a quantitative subject that can bear impacts on the health of living humans. I see myself as an adherent to the [Epicurean philosophy](https://plato.stanford.edu/entries/epicurus/) (for the most part).
+
+While I am particularly enthusiastic about research in statistics, topics of which you can find below, I am also deeply interested in traveling, sampling good foods, working and reading at coffee shops, and trivia. I have recently started playing poker and aspire to become a decent player. My favorite sport is soccer and my favorite soccer team is [Bayern Munich](https://en.wikipedia.org/wiki/FC_Bayern_Munich).
+
+<div align="center">
+  <img width=480 src="images/Tianyi_portrait.HEIC">
+</div>
+
+
 
 {% include section.html %}
 
@@ -11,12 +21,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+My independent research spans questions regarding cell-type deconvolution, relying heavily on theories and algorithms of matrix factorization. I also dab in collaboration in precision medicine, work with a group of scientists on quantifying genetic impacts of inorganic arsenics on type-II diabetes using mouse models, and consult on statistical analysis for neonatal physical therapeutic interventions.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See my publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,18 +38,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="My Research"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+My Highlighted projects include a collaboration with UNC Women's Soccer, an R package for cell-type deconvolution named ARTdeConv.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse my projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="My Projects"
   flip=true
   style="bare"
   text=text
@@ -59,12 +69,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+You can also follow some of my close colleagues and friends. See what they are up to these days!
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet my colleagues and friends"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +86,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Colleagues & Friends"
   text=text
 %}
