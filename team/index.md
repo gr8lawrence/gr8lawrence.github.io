@@ -1,11 +1,11 @@
 ---
-title: Team
+title: Colleagues/Friends
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: About my colleagues and close friends and what they are up to
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Colleagues & Friends
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
