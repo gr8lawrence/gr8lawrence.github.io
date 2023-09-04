@@ -7,14 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+My independent research spans questions regarding cell-type deconvolution, relying heavily on theories and algorithms of matrix factorization. I also dab in collaboration in precision medicine, work with a group of scientists on quantifying genetic impacts of inorganic arsenics on type-II diabetes using mouse models, and consult on statistical analysis for neonatal physical therapeutic interventions.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+<!-- {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %} -->
+
+To be updated.
 
 {% include section.html %}
 

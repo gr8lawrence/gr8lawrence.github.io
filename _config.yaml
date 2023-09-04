@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Tianyi Liu
-subtitle: Sharing with You My Work & My Thoughts
+subtitle: My Works & Thoughts
 description: A website that introduces you to my works, my thoughts, my friends and colleagues, and more.
 header: images/header.jpg
 footer: images/header.jpg
@@ -12,7 +12,8 @@ links:
   google-scholar: rgq62U4AAAAJ
   github: gr8lawrence
   twitter: gr8lawrence
-  youtube: gr8lawrence
+  linkedin: tianyi-liu-157874133
+  # youtube: gr8lawrence
 
 ### jekyll settings
 

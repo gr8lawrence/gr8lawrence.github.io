@@ -1,155 +1,116 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1007/s00204-023-03582-5
+  title: 'Sex-specific transgenerational effects of preconception exposure to arsenite:
+    metabolic phenotypes of C57BL/6 offspring'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Bingzhen Shang
+  - Abhishek Venkatratnam
+  - Tianyi Liu
+  - Christelle Douillet
+  - Qing Shi
+  - Madison Miller
+  - Peter Cable
+  - Fei Zou
+  - Folami Y. Ideraabdullah
+  - Rebecca C. Fry
+  - "Miroslav St\xFDblo"
+  publisher: Archives of Toxicology
+  date: '2023-08-24'
+  link: https://doi.org/gsn7hw
+  orcid: 0000-0002-2484-2478
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1016/j.taap.2022.116266
+  title: Ex vivo exposures to arsenite and its methylated trivalent metabolites alter
+    gene transcription in mouse sperm cells
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Bingzhen Shang
+  - Abhishek Venkatratnam
+  - Hadley Hartwell
+  - Christelle Douillet
+  - Peter Cable
+  - Tianyi Liu
+  - Fei Zou
+  - Folami Y. Ideraabdullah
+  - Rebecca C. Fry
+  - "Miroslav St\xFDblo"
+  publisher: Toxicology and Applied Pharmacology
+  date: '2022-11-01'
+  link: https://doi.org/gsn7hx
+  orcid: 0000-0002-2484-2478
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1007/s00335-022-09957-w
+  title: An interaction of inorganic arsenic exposure with body weight and composition
+    on type 2 diabetes indicators in Diversity Outbred mice
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - James G. Xenakis
+  - Christelle Douillet
+  - Timothy A. Bell
+  - Pablo Hock
+  - Joseph Farrington
+  - Tianyi Liu
+  - Caroline E. Y. Murphy
+  - Avani Saraswatula
+  - Ginger D. Shaw
+  - Gustavo Nativio
+  - Qing Shi
+  - Abhishek Venkatratnam
+  - Fei Zou
+  - Rebecca C. Fry
+  - "Miroslav St\xFDblo"
+  - Fernando Pardo-Manuel de Villena
+  publisher: Mammalian Genome
+  date: '2022-07-11'
+  link: https://doi.org/gsn7hz
+  orcid: 0000-0002-2484-2478
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.celrep.2021.109802
+  title: 'NuMorph: Tools for cortical cellular phenotyping in tissue-cleared whole-brain
+    images'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Oleh Krupa
+  - Giulia Fragola
+  - Ellie Hadden-Ford
+  - Jessica T. Mory
+  - Tianyi Liu
+  - Zachary Humphrey
+  - Benjamin W. Rees
+  - Ashok Krishnamurthy
+  - William D. Snider
+  - Mark J. Zylka
+  - Guorong Wu
+  - Lei Xing
+  - Jason L. Stein
+  publisher: Cell Reports
+  date: '2021-10-01'
+  link: https://doi.org/gsn7h2
+  orcid: 0000-0002-2484-2478
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1007/978-3-319-67434-6_7
+  title: Accurate and High Throughput Cell Segmentation Method for Mouse Brain Nuclei
+    Using Cascaded Convolutional Neural Network
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Qian Wang
+  - Shaoyu Wang
+  - Xiaofeng Zhu
+  - Tianyi Liu
+  - Zachary Humphrey
+  - Vladimir Ghukasyan
+  - Mike Conway
+  - Erik Scott
+  - Giulia Fragola
+  - Kira Bradford
+  - Mark J. Zylka
+  - Ashok Krishnamurthy
+  - Jason L. Stein
+  - Guorong Wu
+  publisher: Patch-Based Techniques in Medical Imaging
+  date: '2017-01-01'
+  link: https://doi.org/gsn7h3
+  orcid: 0000-0002-2484-2478
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
