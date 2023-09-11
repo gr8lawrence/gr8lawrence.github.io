@@ -14,11 +14,11 @@ links:
   instagram: gr8lawrence
 ---
 
-My name is Tianyi Liu. I am currently a fifth year Ph.D. student in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at The University of North Carolina Gillings School of Global Public Health, advised by [Quefeng Li](http://www.bios.unc.edu/~quefeng/) and [Fei Zou](https://sph.unc.edu/adv_profile/fei-zou-phd/), and on my way to become a *Triple Tar Heel*.
+I am currently a fifth-year Ph.D. candidate in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at The University of North Carolina Gillings School of Global Public Health, advised by [Quefeng Li](http://www.bios.unc.edu/~quefeng/) and [Fei Zou](https://sph.unc.edu/adv_profile/fei-zou-phd/). My independent research mainly focuses on cell type deconvolution, investigating theories and algorithms of matrix factorization. I also join research efforts in precision medicine with my colleagues from the Precision Health and AI Research Lab under [Michael Kosorok](https://tarheels.live/kosoroklab/), studying the optimal timings of individual treatments under disease progression and resource constraints.
 
-I grew up in Beijing, China and began my study in the United States at UNC, where I obtained both an M.S. and a B.S.P.H in Biostatistics, as well as a B.A. in Mathematics. I considered studying History and Pure Mathematics, but ultimately chose to pursue Biostatistics as a quantitative subject that can bear impacts on the health of living humans. I see myself as a follower of [Epicurean philosophies](https://plato.stanford.edu/entries/epicurus/) (for the most part).
+I grew up in Beijing, China and began my college in the United States at UNC, where I obtained both a B.S.P.H (and much later, an M.S.) in Biostatistics, as well as a B.A. in Mathematics. I considered studying History and Pure Mathematics, but ultimately chose to pursue Biostatistics, as it is a quantitative subject that can bear impacts on the health of living humans.
 
-While I am particularly enthusiastic about statistical research and consulting, topics of which you can find below, I am also deeply interested in traveling, sampling good foods, working and reading at coffee shops, and trivia. I have recently started playing poker and aspire to become a decent player. My favorite sport is soccer and my favorite soccer team is [Bayern Munich](https://en.wikipedia.org/wiki/FC_Bayern_Munich).
+While I am particularly enthusiastic about statistical research and consulting, topics of which you can find below, I am also deeply interested in traveling, sampling good foods, working and reading at coffee shops, and trivia. I have recently started playing poker and aspire to become a decent player. I try my best to go to the gym four times a week, and just started my training for the [2024 Tobacco Road Marathon](https://tobaccoroadmarathon.com/). My favorite sport is soccer and my favorite soccer team is [Bayern Munich](https://en.wikipedia.org/wiki/FC_Bayern_Munich). I see myself as a follower of [Epicurean philosophies](https://plato.stanford.edu/entries/epicurus/) (for the most part).
 
 {% include section.html %}
 
@@ -27,6 +27,13 @@ While I am particularly enthusiastic about statistical research and consulting, 
 * *Ph.D.*, Biostatistics, The University of North Carolina at Chapel Hill. Expected May, 2024.
 * *M.S.*, Biostatistics, The University of North Carolina at Chapel Hill. May, 2023.
 * *B.S.P.H*, Biostatistics, & *B.A.* in Mathematics, The University of North Carolina at Chapel Hill. May, 2019.
+
+## Skills
+
+* Statistical Analysis
+* Machine Learning
+* Independent and Collaborative Research
+* Statistical Consulting
 
 {% include section.html %}
 ## Experience
@@ -38,9 +45,10 @@ While I am particularly enthusiastic about statistical research and consulting, 
 {% include section.html %}
 ## Leadership
 
-* *International Student Liaison* (2022-23), *Undergraduate Service Chair* (2022-23), & *Treasurer* (2018-19), UNC Biostatistics Student Association.
+* *International Student Liaison* (2022-23, planned cultural events for **40+** people), *Undergraduate Service Chair* (2022-23), & *Treasurer* (2018-19, held a fundraising event), UNC Biostatistics Student Association.
 * *Treasurer* (2021-22), Carolina Jump Rope.
 
 
 {% include section.html %}
-## Volunteer Activities
+## Volunteer Works
+* [Jump Ahead](https://www.linkedin.com/company/jump-ahead/): Coordinating jump rope and making healthy snacks for local elementary school students in Chapel Hill, NC.
