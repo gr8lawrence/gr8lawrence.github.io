@@ -14,8 +14,15 @@ In my spare time, I like to read, travel, eat well, and play sports and trivia g
 {%
   include button.html
   link="members/tianyi-liu.html"
-  text="Read my full bio"
-  icon="fa-solid fa-arrow-right"
+  text="Read my Full Bio"
+  flip=true
+  style="bare"
+%}
+
+{%
+  include button.html
+  link="https://www.dropbox.com/scl/fi/1s5jvtre0ci5h89bteebj/Tianyi_Liu_Resume_DS-1.pdf?rlkey=5q8gdm86bxt7c4y9m1996hlqn&dl=0"
+  text="View my Resume"
   flip=true
   style="bare"
 %}
@@ -30,6 +37,8 @@ In my spare time, I like to read, travel, eat well, and play sports and trivia g
   title="About Me"
   text=text
 %}
+
+<!-- icon="fa-solid fa-arrow-right" -->
 
 
 <!-- {%

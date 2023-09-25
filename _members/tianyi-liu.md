@@ -1,11 +1,11 @@
 ---
 name: Tianyi Liu
 image: images/headshot.jpg
-role: phd
+role: 
 aliases:
+  - Tianyi Liu
   - T. Liu
   - T Liu
-  - gr8lawrence
 links:
   home-page: https://gr8lawrence.github.io
   linkedin: tianyi-liu-157874133

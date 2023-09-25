@@ -7,24 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Colleagues & Friends
 
-Passage 1
+Glad you made it here - not only can you find my full bio but also can read about the life and works of my (human and feline) friends. Enjoy exploring!
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Passage 2
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
