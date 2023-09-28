@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-If you have any questions about me or would like to collaborate, feel free to send me an email.
+If you would like to collaborate or simply want to connect, feel free to shoot me an email using the button below.
 
 {%
   include button.html

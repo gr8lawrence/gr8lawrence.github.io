@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Colleagues & Friends
 
-Glad you made it here - not only can you find my full bio but also can read about the life and works of my (human and feline) friends. Enjoy exploring!
+Glad you made it here - not only can you find my full bio but also read about the life and works of my (human and feline) friends. Enjoy exploring!
 
 {% include section.html %}
 
