@@ -11,7 +11,8 @@ Want to plot something like this:
 In this article, we will go over in detail the steps for plotting the density of
 patients from each North Carolina (NC) county by their zipcode using `ggplot` in
 `R`, a.k.a. the plot above. We have 191 patients from 57 unique zipcodes.
-Since the patient data are protected, the full data is not presented here.
+Since the patient data are protected, the full data is not presented here. You can find the
+zipcode data by [clicking here](https://docs.google.com/spreadsheets/d/1wZhaS7GGySFX62BjRGlKjSMf0AyekCGeiJEjaZaLUBA/edit?usp=sharing).
 
 The main workflow here it to merge the data frame containing patient count by county with
 that of the map coordinates of each NC county. Some data wrangling is needed to translate
@@ -33,7 +34,7 @@ library(ggthemes) # not necessary - allows us to set ggplot themes more easily
 First, assume that the patient data is stored in a variable `clean_df`, which has a
 column `zip` that contains all the zipcodes:
 ```R
-head(clean_df$zip, 5)
+head(clean_df %>% dplyr::select(zip), 5)
 ```
 ```
 # A tibble: 5 × 1
