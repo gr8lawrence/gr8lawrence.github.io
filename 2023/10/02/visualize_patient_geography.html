@@ -62,10 +62,10 @@
 
   <meta name="author" content="tianyi-liu">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2023-10-03T01:05:57+00:00">
+  <meta property="og:updated_time" content="2023-10-03T02:19:37+00:00">
   <meta property="article:published_time" content="2023-10-02T00:00:00+00:00">
-  <meta property="article:modified_time" content="2023-10-03T01:05:57+00:00">
-  <meta name="revised" content="2023-10-03T01:05:57+00:00">
+  <meta property="article:modified_time" content="2023-10-03T02:19:37+00:00">
+  <meta name="revised" content="2023-10-03T02:19:37+00:00">
 
 
 <script type="application/ld+json">
@@ -75,7 +75,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Visualizing Patient Origin in North Carolina Using Zipcode in R" },
       "datePublished": "2023-10-02T00:00:00+00:00",
-      "dateModified": "2023-10-03T01:05:57+00:00",
+      "dateModified": "2023-10-03T02:19:37+00:00",
     
     "name": "Visualizing Patient Origin in North Carolina Using Zipcode in R",
     "description": "My Works & Thoughts. A website that introduces you to my works, my thoughts, my friends and colleagues, and more.",
@@ -502,7 +502,8 @@
 <p>In this article, we will go over in detail the steps for plotting the density of
 patients from each North Carolina (NC) county by their zipcode using <code class="language-plaintext highlighter-rouge">ggplot</code> in
 <code class="language-plaintext highlighter-rouge">R</code>, a.k.a. the plot above. We have 191 patients from 57 unique zipcodes.
-Since the patient data are protected, the full data is not presented here.</p>
+Since the patient data are protected, the full data is not presented here. You can find the
+zipcode data by <a href="https://docs.google.com/spreadsheets/d/1wZhaS7GGySFX62BjRGlKjSMf0AyekCGeiJEjaZaLUBA/edit?usp=sharing">clicking here</a>.</p>
 
 <p>The main workflow here it to merge the data frame containing patient count by county with
 that of the map coordinates of each NC county. Some data wrangling is needed to translate
@@ -522,7 +523,7 @@ patient zipcode to county names before the final merging of the data frames.</p>
 
 <p>First, assume that the patient data is stored in a variable <code class="language-plaintext highlighter-rouge">clean_df</code>, which has a
 column <code class="language-plaintext highlighter-rouge">zip</code> that contains all the zipcodes:</p>
-<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">clean_df</span><span class="o">$</span><span class="n">zip</span><span class="p">,</span><span class="w"> </span><span class="m">5</span><span class="p">)</span><span class="w">
+<div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">clean_df</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w"> </span><span class="n">dplyr</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">zip</span><span class="p">),</span><span class="w"> </span><span class="m">5</span><span class="p">)</span><span class="w">
 </span></code></pre></div></div>
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># A tibble: 5 × 1
    zip  
