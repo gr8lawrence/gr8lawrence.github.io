@@ -108,7 +108,8 @@ zip_sub <- zip_sub %>%
   dplyr::select(-county)
 ```
 
-Now, we are ready to merge `zip_sub` with `zip_sum`:
+Now, we are ready to merge `zip_sub` with `zip_sum`, which yield each patient's county of origin;
+and then we merge this combined data frame with `nc`, adding the map coordinates for counties:
 ```R
 pt_zip_counts <- zip_sum %>%
   left_join(zip_sub, by = "zip") %>%
@@ -149,9 +150,9 @@ S <- ggplot(data = pt_zip_counts) +
 ```
 Saving it using
 ```R
-ggsave("plot/patient_origin_map.pdf", S, width = 9.5, height = 3.5)
+ggsave("plot/patient_origin_map.png", S, width = 9.5, height = 3.5)
 ```
-we have the final product shown at the beginning of the page!
+We have the final product shown at the beginning of the page!
 
 Thanks for reading! I hope you enjoy this content.
 
