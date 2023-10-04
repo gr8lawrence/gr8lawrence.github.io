@@ -1,10 +1,10 @@
 ---
 title: Visualizing Patient Origin in North Carolina Using Zipcode in R
 author: tianyi-liu
-tags: visualization, R, ggplot2, zipcode, geography, NC
+tags: visualization, R, ggplot2, zipcode, geography, NC, tutorial
 ---
 
-Want to plot something like this:
+Do you want to plot something like this? Wonder how you could do it in R?
 
 ![Patient Count by NC County](/images/patient_origin_map.jpg)
 
@@ -16,9 +16,11 @@ zipcode data by [clicking here](https://docs.google.com/spreadsheets/d/1wZhaS7GG
 
 The main workflow here it to merge the data frame containing patient count by county with
 that of the map coordinates of each NC county. Some data wrangling is needed to translate
-patient zipcode to county names before the final merging of the data frames.
+patient zipcode to county names before the final merging of the data frames. Some contents
+of this blog post inspired by [this post](https://www.peterhaschke.com/r/2013/12/05/NCmaps.html)
+by Peter Haschke.
 
-To start, load the following packages in R:
+We start by loading the following packages in R:
 ```R
 library(dplyr) # data wrangling
 library(stringr) # string object manipulation
@@ -31,8 +33,7 @@ library(zipcodeR) # for zipcode metadata
 library(ggthemes) # not necessary - allows us to set ggplot themes more easily
 ```
 
-First, assume that the patient data is stored in a variable `clean_df`, which has a
-column `zip` that contains all the zipcodes:
+Suppose that the patient data is stored in a [tibble](https://tibble.tidyverse.org/) named `clean_df`, where there is a column `zip` that contains all the zipcodes:
 ```R
 head(clean_df %>% dplyr::select(zip), 5)
 ```
@@ -46,7 +47,7 @@ head(clean_df %>% dplyr::select(zip), 5)
  4 28315
  5 27616
 ```
-We begin by counting up the number of patients from each zipcode using the `summarise()`
+Now, we count up the number of patients from each zipcode using the `summarise()`
 function:
 ```R
 zip_sum <- clean_df %>%
@@ -99,7 +100,7 @@ long      lat group order         region subregion
 ```
 A little bit of geographical knowledge tells us the county names are stored in the column
 named `subregion`, and they are all lower-case while without the trailing "County" as in `zip_sub`!
-To match this, we need to change the column storing county names in `zip_sub`.
+To match this, we make some changes to the column storing county names in `zip_sub`:
 ```R
 zip_sub <- zip_sub %>%
   # extract county names and set the first latter to lower case
@@ -137,7 +138,7 @@ A final check of the data frame (`head(pt_zip_count, 2)`) shows the followings:
 2 27025     2 rockingham -79.7  36.5  1937 57961 north carolina      2
 ```
 
-Now, we dish up the plot
+Now, we dish up the plot using `geom_polygon` from `ggplot`:
 ```R
 S <- ggplot(data = pt_zip_counts) +
   geom_polygon(aes(x = long, y = lat, group = group, fill = n_plot)) +
@@ -149,12 +150,11 @@ S <- ggplot(data = pt_zip_counts) +
         legend.position=c(.2,.15)) +
   guides(fill = guide_colorbar(barwidth = 13, title.position = "top", direction = "horizontal"))
 ```
-Saving it using
+Saving it using the following line (you can substitute the file path with whatever you like):
 ```R
-ggsave("plot/patient_origin_map.png", S, width = 9.5, height = 3.5)
+ggsave("patient_origin_map.png", S, width = 9.5, height = 3.5)
 ```
 We have the final product shown at the beginning of the page!
 
-Thanks for reading! I hope you enjoy this content.
-
-Have questions or suggestions? Feel free to email me through the Contact page.
+Thanks for reading! I hope you have learned a lot and enjoyed this content. Have questions
+or suggestions? Feel free to email me through the Contact page.
