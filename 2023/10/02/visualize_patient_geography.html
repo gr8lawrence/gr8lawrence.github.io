@@ -62,10 +62,10 @@
 
   <meta name="author" content="tianyi-liu">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2023-10-04T02:25:38+00:00">
+  <meta property="og:updated_time" content="2023-10-04T02:34:34+00:00">
   <meta property="article:published_time" content="2023-10-02T00:00:00+00:00">
-  <meta property="article:modified_time" content="2023-10-04T02:25:38+00:00">
-  <meta name="revised" content="2023-10-04T02:25:38+00:00">
+  <meta property="article:modified_time" content="2023-10-04T02:34:34+00:00">
+  <meta name="revised" content="2023-10-04T02:34:34+00:00">
 
 
 <script type="application/ld+json">
@@ -75,7 +75,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Visualizing Patient Origin in North Carolina Using Zipcode in R" },
       "datePublished": "2023-10-02T00:00:00+00:00",
-      "dateModified": "2023-10-04T02:25:38+00:00",
+      "dateModified": "2023-10-04T02:34:34+00:00",
     
     "name": "Visualizing Patient Origin in North Carolina Using Zipcode in R",
     "description": "My Works & Thoughts. A website that introduces you to my works, my thoughts, my friends and colleagues, and more.",
@@ -512,8 +512,11 @@ zipcode data by <a href="https://docs.google.com/spreadsheets/d/1wZhaS7GGySFX62B
 <p>The main workflow here it to merge the data frame containing patient count by county with
 that of the map coordinates of each NC county. Some data wrangling is needed to translate
 patient zipcode to county names before the final merging of the data frames. Some contents
-of this blog post inspired by <a href="https://www.peterhaschke.com/r/2013/12/05/NCmaps.html">this post</a>
+of this blog post are inspired by <a href="https://www.peterhaschke.com/r/2013/12/05/NCmaps.html">this post</a>
 by Peter Haschke.</p>
+
+<p>This post assumes that you have a beginner knowledge of <code class="language-plaintext highlighter-rouge">R</code> and its data wrangling functions
+in <a href="https://r4ds.had.co.nz/introduction.html#the-tidyverse">tidyverse</a>, as well as the <a href="https://r4ds.had.co.nz/pipes.html">pipe operator</a>. If not, these links will provide you with some refreshers!</p>
 
 <p>We start by loading the following packages in R:</p>
 <div class="language-R highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">dplyr</span><span class="p">)</span><span class="w"> </span><span class="c1"># data wrangling</span><span class="w">
