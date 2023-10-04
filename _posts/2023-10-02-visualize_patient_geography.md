@@ -17,8 +17,11 @@ zipcode data by [clicking here](https://docs.google.com/spreadsheets/d/1wZhaS7GG
 The main workflow here it to merge the data frame containing patient count by county with
 that of the map coordinates of each NC county. Some data wrangling is needed to translate
 patient zipcode to county names before the final merging of the data frames. Some contents
-of this blog post inspired by [this post](https://www.peterhaschke.com/r/2013/12/05/NCmaps.html)
+of this blog post are inspired by [this post](https://www.peterhaschke.com/r/2013/12/05/NCmaps.html)
 by Peter Haschke.
+
+This post assumes that you have a beginner knowledge of `R` and its data wrangling functions
+in [tidyverse](https://r4ds.had.co.nz/introduction.html#the-tidyverse), as well as the [pipe operator](https://r4ds.had.co.nz/pipes.html). If not, these links will provide you with some refreshers!
 
 We start by loading the following packages in R:
 ```R
