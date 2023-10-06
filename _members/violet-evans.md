@@ -14,7 +14,7 @@ links:
   github: venorthcarolina
 ---
 
-I am an aspiring data scientist looking to align my skillset with industries that leverage *big dat*a and *predictive analytics* to tackle pressing challenges. I am eager to expand and apply my statistical knowledge to real-world challenges.
+I am an aspiring data scientist looking to align my skillset with industries that leverage *big data* and *predictive analytics* to tackle pressing challenges. I am eager to expand and apply my statistical knowledge to real-world challenges.
 
 **Current Title**: M.S. Analytics at the Insitute for Advanced Analytics (IAA), North Carolina State University
 
