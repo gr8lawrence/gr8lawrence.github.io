@@ -1,7 +1,7 @@
 ---
 name: Tianyi Liu
-image: images/headshot.jpg
-role: 
+image: images/tianyi_headshot.jpg
+role:
 aliases:
   - Tianyi Liu
   - T. Liu
