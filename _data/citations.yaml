@@ -114,3 +114,22 @@
   orcid: 0000-0002-2484-2478
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1080/01942638.2023.2271102
+  title: A Feasibility Study of a Physical and Occupational Therapy-Led and Parent-Administered
+    Program to Improve Parent Mental Health and Infant Development
+  authors:
+  - Dana B. McCarty
+  - Stacey C. Dusing
+  - Deborah Thorpe
+  - Morris Weinberger
+  - Susan Pusek
+  - Alana Gilbert
+  - Tianyi Liu
+  - Kerry Blazek
+  - Sara Hammond
+  - "T. Michael O\u2019Shea"
+  publisher: Physical &amp; Occupational Therapy In Pediatrics
+  date: '2023-10-22'
+  link: https://doi.org/gsw9rx
+  plugin: sources.py
+  file: sources.yaml
