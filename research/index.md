@@ -17,9 +17,9 @@ On the collaborative side, I work with a group of scientists on quantifying gene
 
 ## Highlighted
 
-<!-- {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %} -->
+{% include citation.html lookup="Deconvolution" style="rich" %}
 
-To be updated.
+<!-- To be updated. -->
 
 {% include section.html %}
 
