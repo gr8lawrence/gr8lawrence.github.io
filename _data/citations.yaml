@@ -1,5 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.12.07.570631
+  title: Adaptive Regularized Tri-Factor Non-Negative Matrix Factorization for Cell
+    Type Deconvolution
+  authors:
+  - Tianyi Liu
+  - Quefeng Li
+  - Xiaojing Zheng
+  - Fei Zou
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-12-08'
+  link: https://doi.org/gs8hpr
+  orcid: 0000-0002-2484-2478
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/01942638.2023.2271102
+  title: A Feasibility Study of a Physical and Occupational Therapy-Led and Parent-Administered
+    Program to Improve Parent Mental Health and Infant Development
+  authors:
+  - Dana B. McCarty
+  - Stacey C. Dusing
+  - Deborah Thorpe
+  - Morris Weinberger
+  - Susan Pusek
+  - Alana Gilbert
+  - Tianyi Liu
+  - Kerry Blazek
+  - Sara Hammond
+  - "T. Michael O\u2019Shea"
+  publisher: Physical &amp; Occupational Therapy In Pediatrics
+  date: '2023-10-22'
+  link: https://doi.org/gsw9rx
+  orcid: 0000-0002-2484-2478
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00204-023-03582-5
   title: 'Sex-specific transgenerational effects of preconception exposure to arsenite:
     metabolic phenotypes of C57BL/6 offspring'
@@ -112,24 +146,5 @@
   date: '2017-01-01'
   link: https://doi.org/gsn7h3
   orcid: 0000-0002-2484-2478
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1080/01942638.2023.2271102
-  title: A Feasibility Study of a Physical and Occupational Therapy-Led and Parent-Administered
-    Program to Improve Parent Mental Health and Infant Development
-  authors:
-  - Dana B. McCarty
-  - Stacey C. Dusing
-  - Deborah Thorpe
-  - Morris Weinberger
-  - Susan Pusek
-  - Alana Gilbert
-  - Tianyi Liu
-  - Kerry Blazek
-  - Sara Hammond
-  - "T. Michael O\u2019Shea"
-  publisher: Physical &amp; Occupational Therapy In Pediatrics
-  date: '2023-10-22'
-  link: https://doi.org/gsw9rx
   plugin: sources.py
   file: sources.yaml
