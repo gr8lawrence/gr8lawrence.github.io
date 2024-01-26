@@ -1,47 +1,24 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+
+- title: ARTdeConv
+  subtitle: An R package for Adaptive Regularized Tri-factor non-negative matrix factorization for deConvolution
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/ARTdeConv_schema.png
+  link: https://github.com/gr8lawrence/ARTDeConv
+  description: Deconvolution of bulk tissue gene expression using only the gene signatures of a subset of cell types. This is particularly valuable when some cell types are not easily preserved for single-cell sequencing, resulting in unavailable gene signatures. Require additional parameters such as means and ranges of cell-type proportions.
+  repo: gr8lawrence/ARTDeConv
   tags:
+    - bioinformatics
+    - statistical-genetics
+    - matrix-factorization
+    - cell-type-deconvolution
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Tutorial on Using R to Draw a Colored Demographic Map of NC
+  subtitle: Learn to patient origins on the map!
+  image: images/patient_origin_map.jpg
+  link: 2023/10/02/visualize_patient_geography.html
+  description: A step-by-step tutorial of making a colorized NC map to show the distribution of patient origins using R.
   tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - tutorial
+    - R
+    - tidyverse
