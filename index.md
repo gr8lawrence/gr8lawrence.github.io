@@ -25,8 +25,8 @@ When I'm not immersed in research, I love to unwind with a good book, travel to 
 
 {%
   include button.html
-  link="https://www.dropbox.com/scl/fi/ccd3rrr70mvq40jijo3ry/Tianyi_Liu_Resume_DS-2.pdf?rlkey=odpfoot8uy3dh6tjt3okgs1dn&dl=0"
-  text="My Resume"
+  link="https://www.dropbox.com/scl/fi/5edvh6rub3m4rmm84fv2z/Tianyi_Liu_CV_2024_02_General.pdf?rlkey=bjmdnob2ycrcg7vtm7id6c0av&dl=0"
+  text="View My CV"
   flip=true
   style="bare"
 %}
