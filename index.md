@@ -11,6 +11,7 @@
 
 In my spare time, I like to read, travel, eat well, and play sports and trivia games. I recently developed a passion in Hold'em pokers. I also enjoy spending time with my friends and my cat [Wrigley](members/wrigley.html). -->
 
+
 Hey there! I'm currently in the thick of my 5th year pursuing a Ph.D. in [Biostatistics](https://sph.unc.edu/bios/biostatistics/) at The University of North Carolina Gillings School of Global Public Health, soon to be a Triple Tar Heel. My research focuses on [cell type deconvolution](https://en.wikipedia.org/wiki/Cellular_deconvolution) and [precision medicine](https://en.wikipedia.org/wiki/Personalized_medicine), delving into how statistical modeling and machine learning can advance these fields. I collaborate with a diverse group of experts to tackle real-world problems in public health and allied health sciences, and you can check out my publications and projects on this website.
 
 When I'm not immersed in research, I love to unwind with a good book, travel to new places, savor delicious meals, and get active with sports and trivia games. Lately, I've developed a keen interest in Hold'em poker. Of course, nothing beats quality time with my friends and my cat [Wrigley](members/wrigley.html).
@@ -26,7 +27,7 @@ When I'm not immersed in research, I love to unwind with a good book, travel to 
 {%
   include button.html
   link="https://www.dropbox.com/scl/fi/5edvh6rub3m4rmm84fv2z/Tianyi_Liu_CV_2024_02_General.pdf?rlkey=bjmdnob2ycrcg7vtm7id6c0av&dl=0"
-  text="View My CV"
+  text="Curriculum Vitae"
   flip=true
   style="bare"
 %}
@@ -41,6 +42,9 @@ When I'm not immersed in research, I love to unwind with a good book, travel to 
   title="About Me"
   text=text
 %}
+
+**Update:** (03/2024) I will be starting as a Postdoctoral Fellow in the [Aghaeepour Lab](https://nalab.stanford.edu/) at Stanford University in August 2024 to work on applying ML/AI to high-dimensional clinical data and translational sciences and building exciting analytical products and pipelines to address read-world healthcare challenges.
+
 
 <!-- icon="fa-solid fa-arrow-right" -->
 
