@@ -43,7 +43,6 @@ When I'm not immersed in research, I love to unwind with a good book, travel to 
   text=text
 %}
 
-**Update:** (03/2024) I will be starting as a Postdoctoral Fellow in the [Aghaeepour Lab](https://nalab.stanford.edu/) at Stanford University in August 2024 to work on applying ML/AI to high-dimensional clinical data and translational sciences and building exciting analytical products and pipelines to address real-world healthcare challenges.
 
 
 <!-- icon="fa-solid fa-arrow-right" -->
