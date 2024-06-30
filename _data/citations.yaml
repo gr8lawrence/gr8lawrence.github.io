@@ -149,3 +149,19 @@
   orcid: 0000-0002-2484-2478
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.3389/fpsyg.2024.1354033
+  title: 'Interdisciplinary collaborative eye examinations to protect preterm infant
+    neurodevelopment: a quality improvement project'
+  authors:
+  - Dana B. McCarty
+  - Erika Clary-Williams
+  - Kristen D. LeBLond
+  - Tianyi Liu
+  - Tika Zbornik-Thompson
+  - J. Niklas Ulrich
+  - Michelle S. Go
+  publisher: Frontiers in Psychology
+  date: '2024-05-06'
+  link: https://doi.org/gt2wpv
+  plugin: sources.py
+  file: sources.yaml
