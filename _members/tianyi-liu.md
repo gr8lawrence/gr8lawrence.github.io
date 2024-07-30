@@ -22,7 +22,7 @@ While I am particularly enthusiastic about statistical research and consulting, 
 
 I am finishing up my study as a Ph.D. candidate [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at The University of North Carolina Gillings School of Global Public Health in August 2024, under the guidance of [Quefeng Li](http://www.bios.unc.edu/~quefeng/) and [Fei Zou](https://sph.unc.edu/adv_profile/fei-zou-phd/). I have successfully defended my dissertation, which primarily focuses on cell type deconvolution and investigates theories and algorithms of matrix factorization. Additionally, I research precision medicine with peers from the Precision Health and AI Research Lab, led by [Michael Kosorok](https://tarheels.live/kosoroklab/), on the optimal timing of individual treatments under disease progression and resource constraints.
 
-Originally hailed from Beijing, China, I attended UNC-Chapel Hill in the U.S.. Initially intending to study History and Pure Mathematics, I ended up earning a B.S.P.H and an M.S. in Biostatistics, as well as a B.A. in Mathematics. I ultimately chose Biostatistics due to its quantitative nature and the potential to make an impact on public health.
+I grew up on the beautiful campus of Tsinghua University in Beijing, China and attended UNC-Chapel Hill in the U.S.. Initially intending to study History and Pure Math, I ended up earning a B.S.P.H and an M.S. in Biostatistics, as well as a B.A. in Mathematics. I ultimately chose Biostatistics as my primary subject as it is the confluence of both quantitative thinking and practical utilities to make an impact on public health.
 
 While my passion lies in statistical research and consulting, I also have a keen interest in traveling, savoring diverse cuisines, working and reading in coffee shops, and indulging in local trivia competitions. Recently, I've taken up poker and aspire to become proficient at it. I make an effort to hit the gym and finished the [Tobacco Road Marathon](https://tobaccoroadmarathon.com/) in March 2024 (after downing >15 cups of water and Gatorade en route to the finish line). Soccer holds a special place in my heart, with [Bayern Munich](https://en.wikipedia.org/wiki/FC_Bayern_Munich) being my favorite team. I find myself drawn to [Epicurean philosophies](https://plato.stanford.edu/entries/epicurus/) (for the most part).
 
@@ -31,9 +31,9 @@ While my passion lies in statistical research and consulting, I also have a keen
 ## Education
 **The University of North Carolina at Chapel Hill**:
 
-* Ph.D. in Biostatistics - expected May, 2024.
-* M.S. in Biostatistics - May, 2023.
-* B.S.P.H in Biostatistics (Highest Honors), & B.A. in Mathematics, *summa cum laude* - May, 2019.
+* Ph.D., Biostatistics - expected August, 2024.
+* M.S., Biostatistics - May, 2023.
+* B.S.P.H, Biostatistics (Highest Honors), & B.A., Mathematics, *summa cum laude* - May, 2019.
 
 {% include section.html %}
 ## Skills
@@ -54,7 +54,7 @@ While my passion lies in statistical research and consulting, I also have a keen
 
     * Client: [Dr. Dana McCarty, PT](https://www.med.unc.edu/healthsciences/physical/directory/dr-dana-b-mccarty-pt/)
 
-* Graduate Research Assistant, Departments of Biostatistics & Environmental Engineering. August, 2019 - Now.
+* Graduate Research Assistant, Departments of Biostatistics & Environmental Engineering. August, 2019 - May, 2024.
 
     * Supervisors: [Dr. Miroslav (Mirek) Styblo](https://sph.unc.edu/adv_profile/mirek-styblo-phd/) & [Dr. Rebecca Fry](https://sph.unc.edu/adv_profile/rebecca-fry-phd/)
 
