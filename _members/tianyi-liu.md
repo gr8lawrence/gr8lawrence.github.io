@@ -28,32 +28,6 @@ While my passion lies in statistical research and consulting, I also have a keen
 
 {% include section.html %}
 
-<style>
-    .pdf {
-        width: 100%;
-        aspect-ratio: 4 / 3;
-    }
-
-    .pdf,
-    html,
-    body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
-</style>
-
-<body>
-
-    <object class="pdf"
-            data="images/Tianyi_Liu_CV_08_2024.pdf"
-            width="800"
-            height="500">
-    </object>
-</body>
-
-
-
 ## Education
 **The University of North Carolina at Chapel Hill**:
 
