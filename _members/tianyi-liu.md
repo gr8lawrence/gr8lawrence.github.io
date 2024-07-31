@@ -28,6 +28,17 @@ While my passion lies in statistical research and consulting, I also have a keen
 
 {% include section.html %}
 
+{% include figure.html image="images/Tianyi_Liu_CV_08_2024/Tianyi_Liu_CV_08_2024_P1.png" %}
+<style> img { max-width: 700px; max-height: 900px; } </style>
+
+{% include figure.html image="images/Tianyi_Liu_CV_08_2024/Tianyi_Liu_CV_08_2024_P2.png" %}
+<style> img { max-width: 700px; max-height: 900px; } </style>
+
+{% include figure.html image="images/Tianyi_Liu_CV_08_2024/Tianyi_Liu_CV_08_2024_P3.png" %}
+<style> img { max-width: 700px; max-height: 900px; } </style>
+
+{% include section.html %}
+
 ## Education
 **The University of North Carolina at Chapel Hill**:
 
