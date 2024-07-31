@@ -26,16 +26,25 @@ I grew up on the beautiful campus of Tsinghua University in Beijing, China and a
 
 While my passion lies in statistical research and consulting, I also have a keen interest in traveling, savoring diverse cuisines, working and reading in coffee shops, and indulging in local trivia competitions. Recently, I've taken up poker and aspire to become proficient at it. I make an effort to hit the gym and finished the [Tobacco Road Marathon](https://tobaccoroadmarathon.com/) in March 2024 (after downing >15 cups of water and Gatorade en route to the finish line). Soccer holds a special place in my heart, with [Bayern Munich](https://en.wikipedia.org/wiki/FC_Bayern_Munich) being my favorite team. I find myself drawn to [Epicurean philosophies](https://plato.stanford.edu/entries/epicurus/) (for the most part).
 
-{% include section.html %}
+{% include section.html dark=true %}
 
-{% include figure.html image="images/Tianyi_Liu_CV_08_2024/Tianyi_Liu_CV_08_2024_P1.png" %}
-<style> img { max-width: 700px; max-height: 900px; } </style>
+{% include figure.html
+    image="images/TL_CV_08_2024/Tianyi_Liu_CV_08_2024_P1.png"
+    link="https://www.dropbox.com/scl/fi/oo9aljfva7tcfv55kp58o/Tianyi_Liu_CV_08_2024.pdf?rlkey=nds1oo7yd27gc4vq17f9221xf&st=98fh3kaq&dl=0"
+    width="700px"
+%}
 
-{% include figure.html image="images/Tianyi_Liu_CV_08_2024/Tianyi_Liu_CV_08_2024_P2.png" %}
-<style> img { max-width: 700px; max-height: 900px; } </style>
+{% include figure.html
+    image="images/TL_CV_08_2024/Tianyi_Liu_CV_08_2024_P2.png"
+    link="https://www.dropbox.com/scl/fi/oo9aljfva7tcfv55kp58o/Tianyi_Liu_CV_08_2024.pdf?rlkey=nds1oo7yd27gc4vq17f9221xf&st=98fh3kaq&dl=0"
+    width="700px"
+%}
 
-{% include figure.html image="images/Tianyi_Liu_CV_08_2024/Tianyi_Liu_CV_08_2024_P3.png" %}
-<style> img { max-width: 700px; max-height: 900px; } </style>
+{% include figure.html
+    image="images/TL_CV_08_2024/Tianyi_Liu_CV_08_2024_P3.png"
+    link="https://www.dropbox.com/scl/fi/oo9aljfva7tcfv55kp58o/Tianyi_Liu_CV_08_2024.pdf?rlkey=nds1oo7yd27gc4vq17f9221xf&st=98fh3kaq&dl=0"
+    width="700px"
+%}
 
 {% include section.html %}
 
