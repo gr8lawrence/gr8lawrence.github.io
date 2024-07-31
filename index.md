@@ -19,18 +19,12 @@ When I'm not immersed in research, I love to unwind with a good book, travel to 
 {%
   include button.html
   link="members/tianyi-liu.html"
-  text="Full Bio"
+  text="Full Bio & CV"
+  tooltip="View my full-length bio and CV"
   flip=true
   style="bare"
 %}
 
-{%
-  include button.html
-  link="https://www.dropbox.com/scl/fi/oo9aljfva7tcfv55kp58o/Tianyi_Liu_CV_08_2024.pdf?rlkey=nds1oo7yd27gc4vq17f9221xf&st=98fh3kaq&dl=0"
-  text="Curriculum Vitae"
-  flip=true
-  style="bare"
-%}
 
 {% endcapture %}
 
