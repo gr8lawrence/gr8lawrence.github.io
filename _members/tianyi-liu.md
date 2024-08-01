@@ -27,7 +27,7 @@ While my passion lies in statistical research and consulting, I also have a keen
 
 You can find my up-to-date CV below and click on the image to view the full pdf file on Dropbox.
 
-{% include section.html dark=true %}
+{% include section.html %}
 
 {% include figure.html
     image="images/TL_CV_08_2024/Tianyi_Liu_CV_08_2024_P1.png"
