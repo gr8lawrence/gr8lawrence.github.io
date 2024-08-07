@@ -25,7 +25,7 @@ I grew up on the beautiful campus of Tsinghua University in Beijing, China and a
 
 While my passion lies in statistical research and consulting, I also have a keen interest in traveling, savoring diverse cuisines, working and reading in coffee shops, and indulging in local trivia competitions. Recently, I've taken up poker and aspire to become proficient at it. I make an effort to hit the gym and finished the [Tobacco Road Marathon](https://tobaccoroadmarathon.com/) in March 2024 (after downing >15 cups of water and Gatorade en route to the finish line). Soccer holds a special place in my heart, with [Bayern Munich](https://en.wikipedia.org/wiki/FC_Bayern_Munich) being my favorite team. I find myself drawn to [Epicurean philosophies](https://plato.stanford.edu/entries/epicurus/) (for the most part).
 
-You can find my up-to-date CV below and click on the image to view the full pdf file on Dropbox.
+You can find my up-to-date CV below and click on any of the images to view the full pdf file on Dropbox.
 
 {% include section.html %}
 
