@@ -12,9 +12,12 @@
 In my spare time, I like to read, travel, eat well, and play sports and trivia games. I recently developed a passion in Hold'em pokers. I also enjoy spending time with my friends and my cat [Wrigley](members/wrigley.html). -->
 
 
-Hey there! I recently obtained my Ph.D. in [Biostatistics](https://sph.unc.edu/bios/biostatistics/) at The University of North Carolina Gillings School of Global Public Health in August 2024. My research focuses on [cell type deconvolution](https://en.wikipedia.org/wiki/Cellular_deconvolution) and [precision medicine](https://en.wikipedia.org/wiki/Personalized_medicine), answering how statistical modeling and machine learning can advance these fields. I collaborate with a diverse group of experts to tackle real-world problems in public health and allied health sciences. Feel free to check out my publications and projects on this website.
+Hey there! I am a biostatistician working at a medium-sized pharmaceutical company, leading the analysis of data from all phases of clinical trials. I obtained a Ph.D. in [Biostatistics](https://sph.unc.edu/bios/biostatistics/) at The University of North Carolina Gillings School of Global Public Health in August 2024. My research focused on [cell type deconvolution](https://en.wikipedia.org/wiki/Cellular_deconvolution) but also branched out into [precision medicine](https://en.wikipedia.org/wiki/Personalized_medicine). During my Ph.D. program, I collaborated with a diverse group of experts to tackle real-world problems in public health and allied health sciences. Feel free to check out my publications and projects on this website.
 
-When I'm not immersed in research, I love to unwind with a good book, travel to new places, savor delicious meals, and get active with sports and trivia games. Lately, I've developed a keen interest in Hold'em poker. Of course, nothing beats quality time with my friends and my cat [Wrigley](members/wrigley.html).
+In my spare time, I love to unwind with a good book, travel to new places, savor delicious meals, and get active with sports and trivia games. I have developed a keen interest in Hold'em poker lately. Of course, nothing beats quality time with my friends and my cat [Wrigley](members/wrigley.html).
+
+Besides this website, I also maintain a non-technical blog on *Wordpress* called [A Statistician's Journey](https://gr8lawrence.com/). Please take a look there if you want to see more personal reflections and life updates from me.
+
 
 {%
   include button.html
