@@ -143,7 +143,7 @@
   - Ashok Krishnamurthy
   - Jason L. Stein
   - Guorong Wu
-  publisher: Patch-Based Techniques in Medical Imaging
+  publisher: Lecture Notes in Computer Science
   date: '2017-01-01'
   link: https://doi.org/gsn7h3
   orcid: 0000-0002-2484-2478
@@ -163,5 +163,23 @@
   publisher: Frontiers in Psychology
   date: '2024-05-06'
   link: https://doi.org/gt2wpv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.10.01.616122
+  title: Temporal High-Resolution Atlas of Human Blood Leukocyte Composition in Response
+    to Respiratory Virus Inoculation
+  authors:
+  - Yu Zhang
+  - Tianyi Liu
+  - Chuwen Liu
+  - Xuejun Sun
+  - Pei Liu
+  - James S. Hagood
+  - Raymond J. Pickles
+  - Fei Zou
+  - Xiaojing Zheng
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-10-03'
+  link: https://doi.org/g8tsq8
   plugin: sources.py
   file: sources.yaml
