@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/nargab/lqaf046
+  title: "ARTdeConv: adaptive regularized tri-factor non-negative matrix factorization\
+    \ for\_cell type deconvolution"
+  authors:
+  - Tianyi Liu
+  - Chuwen Liu
+  - Quefeng Li
+  - Xiaojing Zheng
+  - Fei Zou
+  publisher: NAR Genomics and Bioinformatics
+  date: '2025-03-29'
+  link: https://doi.org/g9g8jq
+  orcid: 0000-0002-2484-2478
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.12.07.570631
   title: Adaptive Regularized Tri-Factor Non-Negative Matrix Factorization for Cell
     Type Deconvolution
