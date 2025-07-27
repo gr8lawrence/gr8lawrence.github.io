@@ -216,3 +216,26 @@
   link: https://doi.org/g9g9r7
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1007/s00204-025-04107-y
+  title: Transgenerational diabetogenic effects of preconception exposure to inorganic
+    arsenic in C57BL/6 mice are associated with dysregulation of DNA methylation and
+    gene expression in G1 and G2 offspring
+  authors:
+  - Bingzhen Shang
+  - Tianyi Liu
+  - Hadley Hartwell
+  - Christelle Douillet
+  - Abhishek Venkatratnam
+  - Shi Qing
+  - Madison Miller
+  - Fei Zou
+  - Sergey A. Krupenko
+  - Folami Y. Ideraabdullah
+  - Fernando Pardo-Manuel de Villena
+  - Rebecca C. Fry
+  - "Miroslav St\xFDblo"
+  publisher: Archives of Toxicology
+  date: '2025-06-12'
+  link: https://doi.org/g9vfp8
+  plugin: sources.py
+  file: sources.yaml
