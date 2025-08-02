@@ -13,8 +13,15 @@ If you would like to collaborate or simply want to connect, feel free to shoot m
   include button.html
   type="email"
   text="Email me!"
-  link="tianyi96@live.unc.edu"
+  link="tianyi.liu.academic@gmail.com"
 %}
+
+{%
+  include figure.html
+  image="images/headshot.jpg"
+  width="300px"
+%}
+
 <!-- {%
   include button.html
   type="phone"

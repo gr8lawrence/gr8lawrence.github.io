@@ -34,7 +34,7 @@ Besides this website, I also maintain a non-technical blog called [A Statisticia
 
 {%
   include feature.html
-  image="images/headshot.jpg"
+  image="images/tianyi_headshot.jpg"
   link="members/tianyi-liu.html"
   title="About Me"
   text=text
