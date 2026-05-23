@@ -15,11 +15,15 @@
     </div>
   -->
 
-  <div>
+  <p class="footer-tagline">
+    Feel free to reach out &mdash; I&rsquo;m always happy to connect.
+  </p>
+
+  <div class="footer-links">
     {% for link in site.links %}
       {% assign key = link[0] %}
       {% assign value = link[1] %}
-      {% include button.html type=key text="" link=value style="bare" %}
+      {% include button.html type=key text=key link=value %}
     {% endfor %}
   </div>
 

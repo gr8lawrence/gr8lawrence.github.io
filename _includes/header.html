@@ -41,17 +41,25 @@
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
   <nav>
-    {% assign pages = site.pages
-      | where_exp: "page", "page.nav"
+    {% assign current_url = page.url %}
+    {% assign nav_pages = site.pages
+      | where_exp: "p", "p.nav"
       | sort: "nav.order"
     %}
-    {% for page in pages %}
-      {% if page.nav %}
+    {% for p in nav_pages %}
+      {% if p.nav %}
+        {% assign is_active = false %}
+        {% if p.dir != "/" and current_url contains p.dir %}
+          {% assign is_active = true %}
+        {% elsif p.dir == "/" and current_url == "/" %}
+          {% assign is_active = true %}
+        {% endif %}
         <a
-          href="{{ page.dir | relative_url }}"
-          data-tooltip="{{ page.nav.tooltip }}"
+          href="{{ p.dir | relative_url }}"
+          data-tooltip="{{ p.nav.tooltip }}"
+          {% if is_active %}data-active{% endif %}
         >
-          {{ page.title }}
+          {{ p.title }}
         </a>
       {% endif %}
     {% endfor %}

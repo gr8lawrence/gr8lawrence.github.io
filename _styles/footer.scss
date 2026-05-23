@@ -9,7 +9,7 @@ footer {
   gap: 20px;
   padding: 40px;
   line-height: var(--spacing);
-  box-shadow: var(--shadow);
+  border-top: 1px solid var(--light-gray);
 }
 
 footer a {
@@ -22,4 +22,31 @@ footer a:hover {
 
 footer .icon {
   font-size: var(--xl);
+}
+
+.footer-tagline {
+  margin: 0;
+  opacity: 0.7;
+  font-size: 0.9rem;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.footer-links .button {
+  background: var(--background-alt);
+  color: var(--text) !important;
+  font-size: 0.85rem;
+  padding: 8px 14px;
+  text-transform: capitalize;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.footer-links .button:hover {
+  background: var(--primary);
+  color: var(--background) !important;
 }
