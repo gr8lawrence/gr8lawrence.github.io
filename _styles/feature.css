@@ -10,7 +10,7 @@
   flex-shrink: 0;
   width: auto;
   max-width: 50%;
-  border-radius: var(--rounded);
+  border-radius: var(--rounded-lg);
   overflow: hidden;
   box-shadow: var(--shadow);
 }
